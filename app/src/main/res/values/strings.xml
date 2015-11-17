@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VSY</string>
+
+    <string name="update">Update</string>
+    <string name="update_error">Update fehlgeschlagen:</string>
+    <string name="update_success">Update erfolgreich!</string>
+    <string name="update_progress">Update fortschritt</string>
+
+    <string name="local_file">index.html</string>
+    <string name="remote_file">http://vsy.kas.lu/index.html</string>
+    <string name="remote_file_fallback">http://vsy.kas.lu/fallback.html</string>
+
+    <string name="action_update">Aktualisieren</string>
+    <string name="action_reload">Neu starten</string>
+</resources>
